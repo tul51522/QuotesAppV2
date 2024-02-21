@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="author1">Mahatma Gandhi</string>
+    <string name="author2">Mother Teresa</string>
+    <string name="author3">Franklin D. Roosevelt</string>
+    <string name="author4">Martin Luther King Jr.</string>
+    <string name="author5">Eleanor Roosevelt</string>
+    <string name="author6">Benjamin Franklin</string>
+    <string name="author7">Helen Keller</string>
+    <string name="author8">Aristotle</string>
+    <string name="author9">Ralph Waldo Emerson</string>
+    <string name="author10">Oscar Wilde</string>
+</resources>
